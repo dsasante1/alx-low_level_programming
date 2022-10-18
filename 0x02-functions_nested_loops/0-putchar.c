@@ -1,12 +1,10 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include "main.h"
 /**
  * main - prints _putchar, followed by a new line
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-puts("_putchar");
+_putchar("_putchar");
 return (0);
 }
